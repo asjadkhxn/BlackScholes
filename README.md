@@ -1,1 +1,1 @@
-# BlackScholes
+# Black-Scholes Option Pricing Model
